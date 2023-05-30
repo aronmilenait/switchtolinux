@@ -76,7 +76,7 @@ i {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    margin-top: 40px;
+    margin: 50px 100px;
   }
 
   .review {
@@ -95,4 +95,10 @@ i {
 
   .review-p {
     text-align: center;
+  }
+
+  .img-div {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
   }
